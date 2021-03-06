@@ -23,7 +23,7 @@ $b|  HACKING - TOOLS : [31m GHANA$b        |
 [34m*********************************************[32m
 
 ";
-$user-agent: "Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.067) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36"
+
 $__cfduid = "d509fd6511394e7d96d85ee39ec51d7451615053241";
 $PHPSESSID = "6lqkt9lv2gn8dms50gbvufiair";
 $bitmedia_fid = "eyJmaWQiOiJjOWEyZDg1MDEzMWFlYjM3MWUwMzdiYmMwNDk3YmViYiIsImZpZG5vdWEiOiI1ZWVlZDlkNDcwYjI4MzI3YzcyYjQxMzkzZTFkY2E5YyJ9";
