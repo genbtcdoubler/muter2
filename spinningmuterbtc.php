@@ -33,9 +33,9 @@ $_coinzilla_fp_ = "%7B%22backed%22%3A%5B%7B%22cap%22%3A2%2C%22lastCall%22%3A1615
 
 
 
-while (true){
+while (true){"https://bitcoinsp.in/dashboard/get_captcha"};
     
-
+$url="https://bitcoinsp.in/dashboard/get_captcha"
 $req="sd=20&google-response-token=&g-recaptcha-response=03AGdBq27NyI_1ocIzS2TZrPfE4QIQUzXNdp9rhW6JVQXW-zJFxdqQ0_neyK3rXv2Hfb4ptg8fZc75fc3wGQpoM9oc4HTqaNKS9-2h2420Ysz2Ep816qOB4SCi9nvMWON-D8sv4PRwoaZz8OL93yf17if_X1DQbOx75F3CrxwdmTpiQiUtsrCKpQKQYi0e61eNtEygf_pPDr2eCsRWAx5T1bzZGjHuU00WlKO-Wktck_YRbGGovxxTiH-5EaXxEiyQyJTh_nWzgJM-QuN5vENtkyykwh3TDFod7Sdpp8Lcyckb27Y3h68-ChW34N5OjPU878dgWyQyS1enzcLIw2PnaDxZqLm2p2xBS0xQYkDY-nYV32s4S39gtNh98Rr47fBcIL4AedqTDkdVgXp04ivFbIbukRZBmvyyA6RujxURx39EWCNIJuusdbkMtB8OZIRkrwIuVSxdb8O6raKvSGMl-9-yrB5XWUtnhQ&captcha-letra=
 ";
 
@@ -54,7 +54,7 @@ CURLOPT_URL => "$url",
 $obenz = curl_exec($hacker);
 curl_close($hacker);
 $js = json_decode($obenz,true);
-echo "alert alert-success : ".$js["alert alert-success"]."Congratulations You Have Earned 30 satoshi".$js["Congratulations You Have Earned 30 satoshi"]."\n";
+echo "https://bitcoinsp.in/dashboard/captcha" alt="https://bitcoinsp.in/dashboard/captcha"><br> : ".$js["alert alert-success"]."Código captcha".$js["Código captcha"]."\n";
 sleep(5);
 }
 ?>
